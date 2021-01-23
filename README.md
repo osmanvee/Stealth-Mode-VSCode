@@ -12,6 +12,9 @@ The stealth mode theme is inspired to let you program away during times when you
 5. Select the Manager Cog (bottom left) > Color Theme > Stealth Mode Theme
 6. Stealth-code away! 
 
+## Screenshot
+
+![Getting Started](./images/Capture.PNG)
 ### Issues & Suggestions
 For any issues, use our [Github issues](https://github.com/osmanvee/Stealth-Mode-VSCode/issues)
 * Portfolio for feedback: [Osman Warsi](https://www.osman-warsi.com)
