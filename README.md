@@ -13,7 +13,7 @@ The stealth mode theme is inspired to let you program away during times when you
 6. Stealth-code away! 
 
 ### Issues & Suggestions
-For any issues, use our [Github issues](http://github.com)
+For any issues, use our [Github issues](https://github.com/osmanvee/Stealth-Mode-VSCode/issues)
 * Portfolio for feedback: [Osman Warsi](https://www.osman-warsi.com)
 
 **Enjoy!**
