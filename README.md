@@ -2,7 +2,7 @@
 ## Keep your code safe from spies. Get Stealthy and and code safe.
 The stealth mode theme is inspired to let you program away during times when you're in danger of exposure. With slight tuning to the text colours, you can still edit and view your code but it is less prone to be noticeable from someone glancing at your screen.
 
-### With love, from Osman Warsi.
+- With love, from Osman Warsi.
 
 ## Installation
 1. Open the extensions sidebar on Visual Studio Code
